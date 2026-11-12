@@ -1,0 +1,20 @@
+# ============================================================================
+# ExamOpt — Required Libraries & Dependencies
+# SRM Institute of Science and Technology, Tiruchirappalli Campus
+# Course: 21CSC203P Advanced Programming Practice (APP)
+# ============================================================================
+
+# Core Mathematical & Algorithmic Engines
+sympy>=1.12.0
+tabulate>=0.9.0
+
+# Document & Spreadsheet Export Engines
+openpyxl>=3.1.2
+reportlab>=4.0.0
+python-docx>=1.0.0
+python-pptx>=1.0.0
+
+# Data Visualization, Image Processing & Screen Renders
+matplotlib>=3.7.0
+pillow>=10.0.0
+pymupdf>=2.0.0
