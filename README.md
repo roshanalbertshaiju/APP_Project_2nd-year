@@ -9,17 +9,26 @@
 
 ---
 
-### Academic Institution & Course Information
+### 🎓 Course & Academic Information
+* **Course ID and Course Name:** `21CSC203P` — **Advanced Programming Practice** (*Advanced Programming Practices*)
 * **Institution:** SRM Institute of Science and Technology, Tiruchirappalli Campus
-* **Department:** Department of Computer Science & Engineering
-* **Course:** 21CSC203P — Advanced Programming Practice (APP)
-* **Academic Year:** 2nd Year B.Tech (2026–2027)
+* **Department:** Department of Computer Science and Engineering (CSE)
+* **Section:** F
+* **Academic Year:** 2 (2nd Year B.Tech, 2026–2027)
+* **Project Report PDF:** [ExamOpt_Project_Report.pdf](ExamOpt_Project_Report.pdf)
 * **GitHub Repository:** [https://github.com/roshanalbertshaiju/APP_Project_2nd-year](https://github.com/roshanalbertshaiju/APP_Project_2nd-year)
 
-### Project Team Members
-* **Roshan Albert Shaiju** (RA2311003010028)
-* **Suhas V A**
-* **Subaash G**
+### 👥 Team Members' Details
+
+| Full Name | Register Number | Department | Section | Academic Year |
+| :--- | :--- | :--- | :---: | :---: |
+| **Roshan Albert Shaiju** | `RA2511003050356` | CSE | F | 2 |
+| **Subaash G** | `RA2511003050342` | CSE | F | 2 |
+| **Suhas V A** | `RA2511003050306` | CSE | F | 2 |
+
+### 👨‍🏫 Mentor Details
+* **Mentor's Full Name:** Dr. S. Shargunam
+* **Designation:** Assistant Professor, Department of Computer Science and Engineering (CSE)
 
 ---
 
@@ -377,6 +386,7 @@ python -m unittest discover -s tests -v
 APP ExamOPS/
 ├── .gitignore                                 # Git ignore patterns for clean commits
 ├── README.md                                  # Comprehensive project documentation
+├── ExamOpt_Project_Report.pdf                 # Full academic project report PDF
 ├── requirements.txt                           # Third-party Python dependencies
 ├── config.py                                  # Global configuration & environment paths
 ├── main.py                                    # Unified CLI and GUI application entry point
